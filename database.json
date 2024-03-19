@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 20,
+      "active": true
+    },
+    {
+      "name": "Jose Jones",
+      "age": 2,
+      "active": true,
+      "id": "4"
+    },
+    {
+      "id": "452c",
+      "name": "Jack Rambo",
+      "age": 2,
+      "active": true
+    }
+  ],
+  "books": [
+    {
+      "title": "Sleepwalker",
+      "author": "Stephen King",
+      "id": "8a51"
+    },
+    {
+      "title": "Harry Potter",
+      "author": "J.K. Rowling",
+      "id": "6a01"
+    }
+  ]
+}
